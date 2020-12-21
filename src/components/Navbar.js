@@ -16,11 +16,6 @@ const Navbar = () => {
                         <Link to={'/portfolio'}>Portfolio</Link>
                     </a>
 
-
-                    {/* <a className="item item-color">
-                        <Link to={'/contact'}>Contact</Link>
-                    </a> */}
-
                 </div>
         </div>
     )

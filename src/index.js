@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 // // import PortfolioWork from './components/PortfolioWork';
 import AboutMe from './components/AboutMe';
 import './index.css';
@@ -18,7 +19,7 @@ const App = () => {
                     component={PortfolioWork}/>
                 <Route path="/contact"
                     component={ContactForm}/> */}
-                {/* <Footer/> */}
+                <Footer/>
             </Router>
         </div>
     )
