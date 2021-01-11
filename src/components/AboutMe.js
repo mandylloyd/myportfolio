@@ -6,7 +6,7 @@ const AboutMe = () => {
     return (
         <div>
             <div className="ui text container">
-                <img  src="../images/me.png" alt="" className="ui large circular image center"/>
+                <img  src="../images/me.png" alt="" className="ui small circular image center"/>
                 
 
                 <div className="ui list">
