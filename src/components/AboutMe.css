@@ -10,3 +10,10 @@
 .aboutme {
     margin-bottom: 100px !important;
 }
+
+.mid {
+    position: relative !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 310px !important;
+}

@@ -7,8 +7,12 @@ const AboutMe = () => {
         <div>
             <div className="ui text container">
                 <img  src="../images/me.png" alt="" className="ui small circular image center"/>
+                <div className="mid"><h3>
+                Web Developer and Graphic Designer
+                </h3></div>
                 
-
+                
+            
                 <div className="ui list">
                     <div className="item">
                         <i className="users icon"></i>
@@ -42,7 +46,10 @@ const AboutMe = () => {
                     </div>
                 </div>
 
-<div className="aboutme"> {'\t'} I studied Strategic Advertising at Virginia Commonwealth University. After graduating in 2017 with a Bachelors of Science in Mass Communication I have spent my time working in the service industry. I picked up an interest in User Experience along the way and am now pursuing knowledge of Web Development. I completed a Coding Bootcamp through The University of Richmond where I acquired a list of full stack skills. I'm looking to expand these skills and dive deeper into langauges like React and JavaScript to further my career as a Junior Softare Developer. 
+<div className="aboutme"> {'\t'}
+<p className="p">I am a 2017 graduate of Virginia Commonwealth University living in Richmond, Virginia. I received my Bachelor of Science in Mass Communications with a concentration in Strategic Advertising. Since graduation I have spent my time working in customer service environments. During my last semester at VCU I took a course in UI/UX that ignited a passion for accessibility standards and web design. However, it being my last semester I was unable to build on this interest until recently when I enrolled in a Bootcamp through The University of Richmond to learn skills in Web Development such as HTML5, CSS, JavaScript, Node.Js, React, MongoDB, MySQL and more. The Bootcamp was an intensive 6 month full time course that proved to be very challenging and rewarding.</p>
+<p>In high school I became well versed in Adobe InDesign from using it for production of our school’s yearbook. After high school I continued this as a hobby by working as an assistant to the teacher of an advanced InDesign class at Gettysburg Yearbook Camp. While I was studying for my Associate of Arts degree in Fine Arts at Northern Virginia Community College I taught myself Adobe Illustrator as a hobby. When I learned how to design websites at VCU I was able to exercise my skills in Adobe InDesign and Illustrator to create prototypes of applications and websites. </p>
+<p>I believe I’ve truly rounded out my skill set now that I am able to take a project from wireframes and prototypes all the way through development and deployment. Additionally, my knowledge in advertising and marketing make me results driven and client focused. I am an organized and reliable team player excited to further develop my skill set wherever it may be applicable. I am focused on gaining more knowledge and embracing the challenges of becoming an expert in the technologies I am learning. I consider myself a loyal and natural leader who will work to elevate myself alongside my colleagues. Please reach out via email if you think I may be a good fit for your company.</p>
 </div>
             </div>
         </div>

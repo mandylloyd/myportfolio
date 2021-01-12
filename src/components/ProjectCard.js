@@ -21,7 +21,6 @@ const ProjectCard = (props) => {
                         props.title
                     }</div>
                     <div className="meta">
-                    {/* <a href="url">link text</a> */}
                         <a href={
                             props.links
                         }>{props.text}</a>
